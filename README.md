@@ -1,4 +1,5 @@
-# LIFEpowered-modpack-
+## LIFEpowered-modpack
+
 Github page for LIFEpowered Minecraft Forge modpack
 Forge 1.20.1 and a mysterious origin system that ties players together in unexpected ways.
 Each player is secretly assigned an Origin, forced to adapt to unique abilities,
